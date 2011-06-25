@@ -1,6 +1,9 @@
 # rcov generated
 coverage
 
+*.iml
+*.lock
+
 # rdoc generated
 rdoc
 
