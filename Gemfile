@@ -3,6 +3,9 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
+gem "buildr", ">= 1.4.5"
+gem "thor", ">= 0.14.6"
+
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
 group :development do
